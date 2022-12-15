@@ -17,7 +17,7 @@ public class SpringProjectApplication {
     }
     @RequestMapping
     String home() {
-        return "hello world";
+        return "hello World!2";
     }
 
 }
