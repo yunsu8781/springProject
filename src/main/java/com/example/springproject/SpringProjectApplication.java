@@ -17,7 +17,7 @@ public class SpringProjectApplication {
     }
     @RequestMapping
     String home() {
-        return "git 연동 완료!!";
+        return "git 테스트";
     }
 
 }
